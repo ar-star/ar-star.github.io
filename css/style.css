@@ -59,8 +59,9 @@ p {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     line-height: inherit;
+    color: rgba(187, 33, 33, 0.8);
     -webkit-transition: opacity 0.3s ease-out;
     -moz-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
@@ -766,6 +767,12 @@ h6 {
     padding-top: 0;
 }
 
+.contact-section-subtitle {
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 0;
+}
+
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;
@@ -1379,6 +1386,13 @@ blockquote {
 
 /* --------- 6.6 Clients ---------- */
 
+.quote-box {
+	-webkit-box-shadow:0 0 300px rgba(30, 114, 209, 0.644);
+	-moz-box-shadow:0 0 10px rgba(30, 114, 209, 0.644);
+	box-shadow:0 0 5px rgba(30, 114, 209, 0.644);
+}
+
+
 #clients a {
     display: block;
     text-align: center;
@@ -1422,6 +1436,46 @@ blockquote {
     text-align: center;
     display: inline-block;
 }
+
+.blue-bg {
+    background: rgba(91, 59, 206, 0.8);
+}
+
+.light-blue-bg {
+    background: rgba(33, 143, 187, 0.8);
+}
+
+.pink-bg {
+    background: rgba(228, 65, 146, 0.8);
+}
+
+.green-bg {
+    background: rgba(69, 223, 64, 0.8);
+}
+
+.red-bg {
+    background: rgba(187, 33, 33, 0.8);
+}
+
+
+.dark-orange-bg {
+    background: rgba(214, 68, 32, 0.8);
+}
+
+
+.orange-bg {
+    background: rgba(226, 139, 38, 0.8);
+}
+
+
+.yellow-bg {
+    background: rgba(212, 230, 52, 0.8);
+}
+
+.peach-bg {
+    background: rgba(209, 150, 60, 0.8);
+}
+
 
 /* --------- 6.7 Pricing Table ---------- */
 
