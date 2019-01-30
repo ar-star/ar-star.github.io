@@ -1438,42 +1438,42 @@ blockquote {
 }
 
 .blue-bg {
-    background: rgba(91, 59, 206, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 .light-blue-bg {
-    background: rgba(33, 143, 187, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 .pink-bg {
-    background: rgba(228, 65, 146, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 .green-bg {
-    background: rgba(69, 223, 64, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 .red-bg {
-    background: rgba(187, 33, 33, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 
 .dark-orange-bg {
-    background: rgba(214, 68, 32, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 
 .orange-bg {
-    background: rgba(226, 139, 38, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 
 .yellow-bg {
-    background: rgba(212, 230, 52, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 .peach-bg {
-    background: rgba(209, 150, 60, 0.8);
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
 }
 
 
@@ -2381,6 +2381,10 @@ blockquote {
 
 }
 
+.section-heading-description {
+    font-size: 3em;
+    margin: 5px 0 0 0;
+}
 
 
 

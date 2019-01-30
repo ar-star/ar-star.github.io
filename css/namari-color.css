@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#d2b356;
+    color:rgba(187, 33, 97, 0.8);
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#d2b356;
+    color:rgba(241, 34, 86, 0.8);
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#d2b356;
+    color:rgba(33, 143, 187, 0.8);
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #d2b356;
+    background: rgba(233, 22, 103, 0.8);
 }
 
 .pricing-block-content:hover {
-    border-color:#d2b356;
+    border-color:rgba(187, 33, 123, 0.8);
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: rgba(33, 143, 187, 0.8);
+    border-color: rgba(33, 143, 187, 0.8);
 }    
 
 
@@ -82,7 +82,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#d2b356;
+    background-color:rgba(33, 143, 187, 0.8);
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    background:rgba(33, 143, 187, 0.8);
     content:"";
     display:block;
     width:30px;
