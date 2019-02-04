@@ -1438,42 +1438,42 @@ blockquote {
 }
 
 .blue-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(33, 143, 187, 0.6), rgba(33, 143, 187, 0.5));
 }
 
 .light-blue-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(77, 172, 209, 0.6), rgba(144, 199, 221, 0.5));
 }
 
 .pink-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(194, 25, 109, 0.6), rgba(187, 33, 148, 0.5));
 }
 
 .green-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(16, 114, 24, 0.6), rgba(61, 170, 46, 0.5));
 }
 
 .red-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(199, 70, 11, 0.6), rgba(233, 83, 64, 0.5));
 }
 
 
 .dark-orange-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(194, 116, 14, 0.6), rgba(211, 134, 62, 0.5));
 }
 
 
 .orange-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(228, 150, 7, 0.6), rgba(207, 143, 48, 0.5));
 }
 
 
 .yellow-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+    background: linear-gradient(to right, rgba(219, 198, 11, 0.6), rgba(219, 216, 40, 0.5));
 }
 
-.peach-bg {
-    background: linear-gradient(to right, rgba(33, 143, 187, 0.8), rgba(33, 143, 187, 0.8));
+.purple-bg {
+    background: linear-gradient(to right, rgba(161, 32, 144, 0.6), rgba(228, 49, 213, 0.5));
 }
 
 
